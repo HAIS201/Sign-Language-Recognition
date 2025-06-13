@@ -3,7 +3,7 @@
 게임콘텐츠 캡스톤디자인(SWCON36700) 25-1
 
 한채연(팀장), 황해연, 최성우, LI HAISONG
-
+  
 가상 환경 세팅  
 sign_env.yml  
 conda env create -f sign_env.yml  
