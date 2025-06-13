@@ -10,7 +10,7 @@ conda env create -f sign_env.yml
 conda activate sign_env
 
 데이텃셋  
-KETI수어:https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=264
+KETI수어:https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=264  
 WLASL수어:https://www.kaggle.com/datasets/sttaseen/wlasl2000-resized
 
 열할분담  
