@@ -1,0 +1,11 @@
+*.npy
+*.pt
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.mp4
+*.avi
+*.mov
+*.zip
+__pycache__/
