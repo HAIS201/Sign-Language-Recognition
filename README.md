@@ -4,7 +4,7 @@
 
 한채연(팀장), 황해연, 최성우, LI HAISONG
 
-가상 환경 세팅
+가상 환경 세팅  
 sign_env.yml  
 conda env create -f sign_env.yml  
 conda activate sign_env
